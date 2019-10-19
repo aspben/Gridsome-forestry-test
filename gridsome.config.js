@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://www.blog.sportmngr.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
